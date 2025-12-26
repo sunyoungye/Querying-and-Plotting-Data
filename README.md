@@ -21,4 +21,4 @@ Filtered results are visualized on an interactive map, allowing users to explore
 - Folium
 
 ## How to Run
-Download utah_crash_data_2023.csv and DataQuery.py, add both files to a PyCharm project, and run DataQuery.py.
+Download DataQuery.py, utah_crash_data_2023.csv, and crash.html. Place all files into the same PyCharm project, then run DataQuery.py. After execution, right-click crash.html in PyCharm and select Open in Browser to view the results.
